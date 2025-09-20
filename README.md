@@ -21,7 +21,7 @@ Never miss a birthday again! **HappyMail** sends personalized birthday emails au
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/HappyMail-Automatic-Birthday-Wishes.git
+git clone https://github.com/VasilisKokotakis/HappyMail-Automatic-Birthday-Wishes.git
 cd HappyMail-Automatic-Birthday-Wishes
 ```
 
