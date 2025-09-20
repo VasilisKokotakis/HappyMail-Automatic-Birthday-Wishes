@@ -1,6 +1,4 @@
----
-
-# 🎉 HappyMail – Your Automated Birthday Buddy 🎂💌
+# 🎉 HappyMail-Automatic-Birthday-Wishes 🎂💌
 
 Never miss a birthday again! **HappyMail** sends personalized birthday emails automatically—so you can be the hero of birthdays without even trying. 🦸‍♂️✨
 
@@ -23,8 +21,8 @@ Never miss a birthday again! **HappyMail** sends personalized birthday emails au
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/happymail.git
-cd happymail
+git clone https://github.com/yourusername/HappyMail-Automatic-Birthday-Wishes.git
+cd HappyMail-Automatic-Birthday-Wishes
 ```
 
 2. **Install dependencies**
@@ -89,4 +87,3 @@ Add templates, suggest features, or fix bugs! Pull requests welcome. Let’s mak
 ## 📬 License
 
 MIT License – celebrate freely! 🎈
-
